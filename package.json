@@ -1,6 +1,6 @@
 {
   "name": "fibonacci_sequence",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "fibonacci",
   "main": "lib/index.js",
   "types": "lib",
@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/majidux/fibonacci_sequence/issues"
   },
-  "homepage": "https://github.com/majidux/fibonacci_sequence#readme",
-  "dependencies": {
-    "fibonacci_sequence": "^1.0.2"
-  }
+  "homepage": "https://github.com/majidux/fibonacci_sequence#readme"
 }
