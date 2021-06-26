@@ -1,0 +1,23 @@
+{
+  "name": "fibonacci_sequence",
+  "version": "1.0.0",
+  "description": "fibonacci",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majidux/fibonacci_sequence.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "majiddarvish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majidux/fibonacci_sequence/issues"
+  },
+  "homepage": "https://github.com/majidux/fibonacci_sequence#readme"
+}
