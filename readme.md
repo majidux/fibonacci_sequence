@@ -1,7 +1,7 @@
 # Fibonacci sequence
 
 
-### [npm link](https://www.npmjs.com/package/fibonacci_sequence).
+### [npm link](https://www.npmjs.com/package/fibonacci_sequence)
 
 #### How to install
 ###### With npm:

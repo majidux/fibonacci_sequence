@@ -1,11 +1,6 @@
 function fibonacciNumber(num: number): number {
-  let result: number;
-  if (num === 1 || num === 2) {
-    result = 1;
-  } else {
-    result = fibonacciNumber(num - 1) + fibonacciNumber(num - 2);
-  }
-  return result;
+  if (num <= 2) return 1;
+  return fibonacciNumber(num - 1) + fibonacciNumber(num - 2);
 }
 
 export function fibonacciSequence(length: number = 5): number[] {
